@@ -3,5 +3,10 @@
     {
       "assembly": "BookShop.WebTests.Selenium"
     }
-  ]
+  ],
+
+  "livingDocGenerator": {
+    "enabled": true,
+    "filepath": "TestExecution.json"
+  }
 }
